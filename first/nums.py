@@ -5,7 +5,7 @@ def plus(a,b):
 
 def minus(a,b):
     return a-b
-
+# Добави коммент с Гита
 # Какой-то комментарий
 
 if __name__ == '__main__':
