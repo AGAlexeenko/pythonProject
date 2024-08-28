@@ -10,7 +10,11 @@ def minus(a,b):
 # Третий коммент
 # Четвёртый коммент
 
+def multiply(a,b):
+    return a*b
+
 if __name__ == '__main__':
     print(plus(4,3))
     print(minus(5,4))
+    print(multiply(5, 4))
 
